@@ -1,0 +1,7 @@
+# Global configuration
+data:
+  raw_path: data/raw
+  processed_path: data/processed
+
+model:
+  save_path: shared/models/final
